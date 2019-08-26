@@ -2,7 +2,7 @@
 layout: post
 title:  "GSOC final submission"
 date:   2019-08-25 22:22:51 +0000
-categories: [GSOC, 2019, opensource]  
+categories: [opensource,gsoc]  
 ---
 
 Hey folks! 
@@ -27,15 +27,15 @@ There's lot to be done which i will do after the GSOC period gradually.
 
 # Contributions:-	
 	
-<h6>Proposal</h6>
-[Proposal](https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub)
-[Overview](https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992)
+<h5>Proposal</h5>
+&nbsp; &nbsp;[Proposal](https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub)
+&nbsp; &nbsp;<br>[Overview](https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992)
 
-<h6>Pull Request</h6> 
-[Debian Packaging (Open)](https://github.com/nexB/scancode-toolkit/pull/1636)
+<h5>Pull Request</h5> 
+&nbsp;&nbsp;[Debian Packaging (Open)](https://github.com/nexB/scancode-toolkit/pull/1636)
 	
-<h6>Issues</h6>
-[General issues](https://github.com/nexB/scancode-toolkit/issues/created_by/aj4ayushjain)
+<h5>Issues</h5>
+&nbsp;&nbsp;[General issues](https://github.com/nexB/scancode-toolkit/issues/created_by/aj4ayushjain)
 
 	
 
