@@ -2,13 +2,13 @@
 layout: post
 title:  "GSOC final submission"
 date:   2019-08-25 22:22:51 +0000
-categories: GSOC 2019 opensource  
+categories: [GSOC, 2019, opensource]  
 ---
 
 Hey folks! 
 This is the final report of what i had been able to accomplish in my  GSOC timeperiod consisting of Work submission links along with the issues.This journey was full of highs and lows and everyday was fighting some fallbacks and hitting them hard.
 
-#What' done?
+# What' done?
 
 * Debian directory addition for debian package creation
 
@@ -17,7 +17,7 @@ This is the final report of what i had been able to accomplish in my  GSOC timep
 * Unpacked dependencies addition 
 
 
-#What's left?
+# What's left?
 
 There's lot to be done which i will do after the GSOC period gradually.
 
@@ -25,8 +25,7 @@ There's lot to be done which i will do after the GSOC period gradually.
 
 * Creation of package for RPM distribution
 
-#Contributions:-
-	##Project Overview:-https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992	
+# Contributions:-	
 
 	##Project
 	* [Proposal][proposal]
