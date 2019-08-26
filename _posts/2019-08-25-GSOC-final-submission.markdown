@@ -44,7 +44,8 @@ Contact me aj4ayushjain@gmail.com if you have any queries regarding GSOC, debian
 
 Thanks AboutCode mentors for providing such a great experience and opportunity to  learn.
 
-[proposal]:https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub
-[project-overview]:https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992
-[pull-requests]:https://github.com/nexB/scancode-toolkit/pull/1636
-[issues]:https://github.com/nexB/scancode-toolkit/issues/created_by/aj4ayushjain
+[proposal](https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub)
+[project-overview](https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992)
+
+[pull-requests](https://github.com/nexB/scancode-toolkit/pull/1636)
+[issues](https://github.com/nexB/scancode-toolkit/issues/created_by/aj4ayushjain)
