@@ -27,15 +27,15 @@ There's lot to be done which i will do after the GSOC period gradually.
 
 # Contributions:-	
 	
-	<h3>Proposal</h3>
-	 [Proposal](https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub)
-	 [Overview](https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992)
+<h3>Proposal</h3>
+[Proposal](https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub)
+[Overview](https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992)
 
-	<h3>Pull Request</h3> 
-	 [Debian Packaging (Open)](https://github.com/nexB/scancode-toolkit/pull/1636)
+<h3>Pull Request</h3> 
+[Debian Packaging (Open)](https://github.com/nexB/scancode-toolkit/pull/1636)
 	
-	<h3>Issues</h3>
-	[General issues](https://github.com/nexB/scancode-toolkit/issues/created_by/aj4ayushjain)
+<h3>Issues</h3>
+[General issues](https://github.com/nexB/scancode-toolkit/issues/created_by/aj4ayushjain)
 
 	
 
