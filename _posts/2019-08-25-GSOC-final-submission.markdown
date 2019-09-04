@@ -43,7 +43,7 @@ There's lot to be done which i will do after the GSOC period gradually.
 	
 
 
-[Contact me](mailto:aj4ayushjain@gmail.com) if you have any queries regarding GSOC, debian package or want to share or discuss sonething open to all.
+[Contact me](mailto:aj4ayushjain@gmail.com) if you have any queries regarding GSOC project ,or how i am trying to get the  debian package done  or want to share or discuss something always open to all Just ping me up.
 
 Thanks AboutCode mentors for providing such a great experience and opportunity to  learn.
 
