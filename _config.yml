@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aj4ayushjain.github.io/" # the base hostname & protocol for your site
 twitter_username: Notyetavailable
 github_username:  aj4ayushjain
+linkedin_username: ayushjain0402
 
 # Build settings
 markdown: kramdown
