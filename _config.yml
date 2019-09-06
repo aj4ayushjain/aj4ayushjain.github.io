@@ -9,10 +9,10 @@
 title: Everyone's Awesome
 email: aj4ayushjain@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am Computer Science finalyear undergrad interested in tech. A bit crazy and lazy at times this where i will usually explain some tech or vent my feeling out.
+  I am Computer Science finalyear undergrad interested in tech. A bit crazy and lazy at times this is where i will usually explain some tech or vent my feeling out.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aj4ayushjain.github.io/" # the base hostname & protocol for your site
-twitter_username: Notyetavailable
+twitter_username: Not-yet-available
 github_username:  aj4ayushjain
 linkedin_username: ayushjain0402
 
