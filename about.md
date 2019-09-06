@@ -6,12 +6,9 @@ permalink: /about/
 
 ![Ayush-Jain](/assets/images/profile.jpg){:class="img-responsive"}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hiya!!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am Ayush Jain,Finalyear CS undergrad from PES University,Ecity campus trying to discover my passions and interests and enjoy  the life to fullest.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I truly love meeting new people but pretty shy at times and hate large gatherings:p
+Kindda, currently trying out my computer techy geek love at this point in my life. Apart from computers love i love travelling(which i don't do much),table tennis,farming(which need's a little more exploration) and in search for great revolutionary ideas which inpsire me to work on and affects people in positive way.
