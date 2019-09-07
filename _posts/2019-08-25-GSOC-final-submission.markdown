@@ -28,7 +28,7 @@ There's lot to be done which i will do after the GSOC period gradually.
 # Contributions:-	
 	
 <h5>Proposal</h5>
-&nbsp;&nbsp;[Proposal](https://docs.google.com/document/d/1E18nXcWQyCxlqQ_dvy63nsnybXjfIDTtEdsuED0IkSU/edit#heading=h.2gazcsgmxkub)
+&nbsp;&nbsp;Proposal(Just mail me)
 <br>&nbsp;&nbsp;[Overview](https://summerofcode.withgoogle.com/organizations/6118953540124672/#5793822963924992)
 
 <h5>Pull Request</h5> 
