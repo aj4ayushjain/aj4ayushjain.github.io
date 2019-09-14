@@ -23,7 +23,7 @@ That was a great feeling to be part of GSoC but i was scared whether i will be a
 
 I had many difficulties in my project and the approach I initially took was to read up enough documentation and do no commits till that point of time and then  you go on to build a complete-perfect solution at one commit at a time but this Never Worked for me .And i  do personally believe this way big goals are never achieved.Always we need to break things up  into small pieces and work on them as in my case one small commit at a time gets the work done and help us build solutions or as my mentor says 
 
-**"Get something working first and then go on iterating it at each step"**
+**"Get something working first and then go on iterating it at each step"**.
 
 And this leads to some of the great products as well.
 
