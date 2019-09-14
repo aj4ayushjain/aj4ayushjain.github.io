@@ -22,7 +22,9 @@ Then i did research about the project and came up with a proposal finally a day 
 That was a great feeling to be part of GSoC but i was scared whether i will be able to complete the project(which i had very less knowledge about) .Without much delay I started understanding the bits and pieces of the codebase and project related topics.There were times where i didn't understood the document or code and did multiple reads and experimented but my "NEVER GIVE UP" attitude helped me get back. I will blog my project difficulties and related technicalities in some other blog (as it's WIP).
 
 I had many difficulties in my project and the approach I initially took was to read up enough documentation and do no commits till that point of time and then  you go on to build a complete-perfect solution at one commit at a time but this Never Worked for me .And i  do personally believe this way big goals are never achieved.Always we need to break things up  into small pieces and work on them as in my case one small commit at a time gets the work done and help us build solutions or as my mentor says 
-*"Get something working first and then go on iterating it at each step"*.
+
+**"Get something working first and then go on iterating it at each step"**
+
 And this leads to some of the great products as well.
 
 As time went on in GSoC but the pressure grew on me.Handling everything simulataneously Placements,GSoC,Sem Exams was stressfull and then i didn't knew what was happenin.I was full stressed up and never took a break which was the reason i lost track of many things and couldn't sleep of also properly. Literally i was dreaming of solving the problems. That was when i should have taken a break but i didn't and a major breakdown occurred and got me sick as well.This stopped me from getting the necessary work done and my mentor being a calm and super chill told me to take care and told project can be taken care later and lately i Thank my mentors and Naveen for supporting me and guiding me on to the right path.
