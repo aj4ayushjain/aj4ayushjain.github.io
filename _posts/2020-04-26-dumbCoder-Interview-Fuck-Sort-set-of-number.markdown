@@ -12,7 +12,7 @@ Problem Solver once again.But nothing is gonna stop me and I am soon gonna
 become RED!
 Because dumb people too can make it big......Hhahahaha.
 
-###Initial Approach
+### Initial Approach
 
 I will only focus on the Coding problem for now.
 
@@ -108,7 +108,7 @@ couldn't think of that time
 
 So i guess it's like u 
 	
-{%highlight java%}
+{% highlight java %}
 	1.)
 	LinkedHashMAp
 	 or
@@ -126,13 +126,13 @@ So i guess it's like u
 		n1        n2         n3        n4
 		
 	 
-{%endhighlight %}		
+{% endhighlight  %}		
 
 **Time Comp - O(n)**
 **Space Comp - O(n)**
 
 
-###Updated Solution-Code and analysis of Mistakes
+### Updated Solution-Code and analysis of Mistakes
 
 
 My code complexity are 
@@ -147,7 +147,7 @@ My code complexity are
 
 
  
-{%highlight java %}
+{% highlight java %}
 
 import java.util.*;
 
@@ -208,7 +208,7 @@ public static void swap(int a[],int i, int j){
 
 }
 
-{%endhighligth %}
+{% endhighlight %}
 
 So, Yes that's it for now. 
 If any suggestions please comment.
