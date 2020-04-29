@@ -208,7 +208,7 @@ public static void swap(int a[],int i, int j){
 
 }
 
-{%highligt %}
+{%endhighligth %}
 
 So, Yes that's it for now. 
 If any suggestions please comment.
