@@ -6,8 +6,7 @@ permalink: /about/
 
 
 ![](/assets/images/profile.jpg){:class="img-responsive center-block" }<br>
-<div style="margin-left:60px"> 
-Error loading the image!</div>
+<div style="margin-left:60px"></div>
 
 Hiya!!
 
