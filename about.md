@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![](/assets/images/error.png){:class="img-responsive center-block" }<br>
+![](/assets/images/profile.jpg){:class="img-responsive center-block" }<br>
 <div style="margin-left:60px"> 
 Error loading the image!</div>
 
