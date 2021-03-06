@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Backup my work environment, setup, config etc"
 date:   2021-03-06 22:22:51 +0000
@@ -57,6 +57,9 @@ So what I will do is analyse my config files
 ## You need to be carefull while backing up things
 
 * Private git repo - .ssh, .git-credentials etc
+
+I guess that's it for now and if you have any questions maybe we can just ping
+me. [Contact](mailto:aj4ayushjain@gmail.com)
     
 # REFERENCES
 
